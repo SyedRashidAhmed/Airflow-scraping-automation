@@ -158,4 +158,4 @@ docker volume rm <volume_name>
 
 **Syed Rashid Ahmed**
 Data Engineer | Python Developer
-Contact: \[LinkedIn] | \[GitHub] | syedrashid123ahmed@gmail.com
+Contact: Syed Rashid Ahmed | SyedRashidAhmed | syedrashid123ahmed@gmail.com
