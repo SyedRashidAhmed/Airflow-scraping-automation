@@ -1,12 +1,4 @@
-# Airflow-scraping-automation
-
-
-# 📘 (Airflow + Docker + Web Scraping with mongodb)
-
-
-
-
-# 🕸️ Dockerized Web Scraping & PDF Extraction Pipeline with Airflow
+# 🕸️ Dockerized Web Scraping & PDF Extraction Pipeline with Airflow (Airflow + Docker + MongoDB)
 
 This project is a robust, fully Dockerized web scraping system built with Python and orchestrated via Apache Airflow. It supports dynamic URL configuration, deep crawling, PDF file extraction, and logs all operations. It stores scraped content and files into Docker-managed volumes for persistence and portability.
 
@@ -161,4 +153,4 @@ docker volume rm <volume_name>
 
 **Syed Rashid Ahmed**
 Data Engineer | Python Developer
-Contact: Syed Rashid Ahmed | SyedRashidAhmed | syedrashid123ahmed@gmail.com
+Contact: Syed Rashid Ahmed | SyedRashidAhmed | \syedrashid123ahmed@gmail.com
