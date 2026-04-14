@@ -834,5 +834,5 @@ def main():
         error_message = f"{type(e).__name__}: {str(e)}"
         print(traceback.format_exc())
 
-if __name__ == "__main__":
+if __name__ == "__main__" and __name__== "__main__":
     main()
