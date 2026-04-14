@@ -1,0 +1,12 @@
+beautifulsoup4==4.13.4
+certifi==2025.6.15
+charset-normalizer==3.4.2
+idna==3.10
+packaging==25.0
+requests==2.32.4
+selenium==4.33.0
+webdriver-manager==4.0.2
+soupsieve==2.7
+urllib3==2.4.0
+yt-dlp==2025.6.9
+pendulum==3.0.0 
