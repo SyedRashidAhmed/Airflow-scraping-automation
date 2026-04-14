@@ -1,6 +1,6 @@
 # Airflow-scraping-automation
 
-# 📘 (Airflow + Docker + Web Scraping)
+# 📘 (Airflow + Docker + Web Scraping without mongoDB)
 
 
 # 🕸️ Dockerized Web Scraping & PDF Extraction Pipeline with Airflow
