@@ -1,6 +1,6 @@
 # Airflow-scraping-automation
 
-## 📘 `README.md` (Airflow + Docker + Web Scraping)
+# 📘 (Airflow + Docker + Web Scraping)
 
 
 # 🕸️ Dockerized Web Scraping & PDF Extraction Pipeline with Airflow
@@ -156,6 +156,6 @@ docker volume rm <volume_name>
 
 ## 🧑‍💻 Author
 
-**Rashid**
+**Syed Rashid Ahmed**
 Data Engineer | Python Developer
-Contact: \[LinkedIn] | \[GitHub] | \[Email]
+Contact: \[LinkedIn] | \[GitHub] | syedrashid123ahmed@gmail.com
